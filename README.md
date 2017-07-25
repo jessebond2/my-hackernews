@@ -1,12 +1,12 @@
-#Welcome to the my-hackernews coding challenge! 
-###The goal of this challenge is to clone news.ycominator.com to the best of your abilities in React.
+# Welcome to the my-hackernews coding challenge! 
+### The goal of this challenge is to clone news.ycominator.com to the best of your abilities in React.
 To get you started you can either use the create-react-app scaffold included under my-hackernews/ or however you would like.
 
 To get started with create-react-app:
-`cd my-hackernews
-npm install
-npm start
-# go to localhost:3000`
+`cd my-hackernews`
+`npm install`
+`npm start`
+`# go to localhost:3000`
 
 This should pull up a ready-to-go environment!
 https://github.com/facebookincubator/create-react-app
